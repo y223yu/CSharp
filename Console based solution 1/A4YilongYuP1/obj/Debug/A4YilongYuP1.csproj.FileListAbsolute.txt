@@ -1,0 +1,14 @@
+G:\PROG1781-Programming Concepts\A4YilongYuP1\A4YilongYuP1\bin\Debug\A4YilongYuP1.exe.config
+G:\PROG1781-Programming Concepts\A4YilongYuP1\A4YilongYuP1\bin\Debug\A4YilongYuP1.exe
+G:\PROG1781-Programming Concepts\A4YilongYuP1\A4YilongYuP1\bin\Debug\A4YilongYuP1.pdb
+G:\PROG1781-Programming Concepts\A4YilongYuP1\A4YilongYuP1\obj\Debug\A4YilongYuP1.csprojResolveAssemblyReference.cache
+G:\PROG1781-Programming Concepts\A4YilongYuP1\A4YilongYuP1\obj\Debug\A4YilongYuP1.csproj.CoreCompileInputs.cache
+G:\PROG1781-Programming Concepts\A4YilongYuP1\A4YilongYuP1\obj\Debug\A4YilongYuP1.exe
+G:\PROG1781-Programming Concepts\A4YilongYuP1\A4YilongYuP1\obj\Debug\A4YilongYuP1.pdb
+C:\Conestoga College\GitHub\Console based solution 4\A4YilongYuP1\bin\Debug\A4YilongYuP1.exe.config
+C:\Conestoga College\GitHub\Console based solution 4\A4YilongYuP1\bin\Debug\A4YilongYuP1.exe
+C:\Conestoga College\GitHub\Console based solution 4\A4YilongYuP1\bin\Debug\A4YilongYuP1.pdb
+C:\Conestoga College\GitHub\Console based solution 4\A4YilongYuP1\obj\Debug\A4YilongYuP1.csprojAssemblyReference.cache
+C:\Conestoga College\GitHub\Console based solution 4\A4YilongYuP1\obj\Debug\A4YilongYuP1.csproj.CoreCompileInputs.cache
+C:\Conestoga College\GitHub\Console based solution 4\A4YilongYuP1\obj\Debug\A4YilongYuP1.exe
+C:\Conestoga College\GitHub\Console based solution 4\A4YilongYuP1\obj\Debug\A4YilongYuP1.pdb
