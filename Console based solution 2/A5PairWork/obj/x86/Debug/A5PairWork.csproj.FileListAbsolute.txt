@@ -1,0 +1,16 @@
+/Users/maxon/Desktop/Conestoga College/PROG1781 Programming Concepts I/A5PairWork/A5PairWork/bin/Debug/A5PairWork.exe
+/Users/maxon/Desktop/Conestoga College/PROG1781 Programming Concepts I/A5PairWork/A5PairWork/bin/Debug/A5PairWork.pdb
+/Users/maxon/Desktop/Conestoga College/PROG1781 Programming Concepts I/A5PairWork/A5PairWork/obj/x86/Debug/A5PairWork.csproj.CoreCompileInputs.cache
+/Users/maxon/Desktop/Conestoga College/PROG1781 Programming Concepts I/A5PairWork/A5PairWork/obj/x86/Debug/A5PairWork.exe
+/Users/maxon/Desktop/Conestoga College/PROG1781 Programming Concepts I/A5PairWork/A5PairWork/obj/x86/Debug/A5PairWork.pdb
+/Users/maxon/Desktop/Conestoga College/PROG1781 Programming Concepts I/Assignment/A5PairWork/A5PairWork/bin/Debug/A5PairWork.exe
+/Users/maxon/Desktop/Conestoga College/PROG1781 Programming Concepts I/Assignment/A5PairWork/A5PairWork/bin/Debug/A5PairWork.pdb
+/Users/maxon/Desktop/Conestoga College/PROG1781 Programming Concepts I/Assignment/A5PairWork/A5PairWork/obj/x86/Debug/A5PairWork.csproj.CoreCompileInputs.cache
+/Users/maxon/Desktop/Conestoga College/PROG1781 Programming Concepts I/Assignment/A5PairWork/A5PairWork/obj/x86/Debug/A5PairWork.exe
+/Users/maxon/Desktop/Conestoga College/PROG1781 Programming Concepts I/Assignment/A5PairWork/A5PairWork/obj/x86/Debug/A5PairWork.pdb
+C:\Conestoga College\Level 1\PROG1781-Programming Concepts I\Assignments\Assignment 5\A5PairWork\A5PairWork\bin\Debug\A5PairWork.exe
+C:\Conestoga College\Level 1\PROG1781-Programming Concepts I\Assignments\Assignment 5\A5PairWork\A5PairWork\bin\Debug\A5PairWork.pdb
+C:\Conestoga College\Level 1\PROG1781-Programming Concepts I\Assignments\Assignment 5\A5PairWork\A5PairWork\obj\x86\Debug\A5PairWork.csprojAssemblyReference.cache
+C:\Conestoga College\Level 1\PROG1781-Programming Concepts I\Assignments\Assignment 5\A5PairWork\A5PairWork\obj\x86\Debug\A5PairWork.csproj.CoreCompileInputs.cache
+C:\Conestoga College\Level 1\PROG1781-Programming Concepts I\Assignments\Assignment 5\A5PairWork\A5PairWork\obj\x86\Debug\A5PairWork.exe
+C:\Conestoga College\Level 1\PROG1781-Programming Concepts I\Assignments\Assignment 5\A5PairWork\A5PairWork\obj\x86\Debug\A5PairWork.pdb
